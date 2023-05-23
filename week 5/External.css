@@ -1,0 +1,47 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+background:linear-gradient(black,red);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: beige;
+    color: aqua;
+    font-size: 60px;
+}
+#hell{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    background-color: blueviolet;
+    color: brown;
+    font-size: 20px;
+}
+.fire{
+    background-color: gold;
+    color: white;
+    font-size: 20px;
+
+
+}
+.fire:hover{
+    background-color: grey;
+    color: black;
+}
+#strange{
+    background-color: peru;
+    color: violet;
+    font-size: 20px;
+    font-style: italic;
+
+
+}
+
+p{
+    background-color: black;
+    color: antiquewhite;
+    font-size: 20px;
+}
+img{
+    width: 600px;
+    height: 500px;
+}

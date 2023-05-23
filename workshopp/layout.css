@@ -1,0 +1,15 @@
+img{
+    width:50%;
+    height:600px;
+    float: right;
+}
+
+.son{
+    width:50%;
+    background-color: seagreen;
+    font-size: 20px;
+    text-align: left;
+    float: left;
+    height: 600px;
+
+}

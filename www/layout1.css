@@ -1,0 +1,32 @@
+
+
+img{
+    width:85%;
+    height:354px;
+    float: center;
+
+}
+
+
+.parent{ 
+    width:100%;
+    background-color: rgb(38, 170, 131);
+
+}
+.son{
+    width:50%;
+    background-color: rgb(38, 170, 131);
+    font-size: 20px;
+    float: right;
+    text-align: left;
+
+    
+}
+.daughter{
+    width:100%;
+    background-color: rgb(38, 170, 131);
+    float: center;
+    
+}
+
+

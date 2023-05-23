@@ -1,0 +1,34 @@
+.parent{
+    height: 1000vx;
+    background-color: blue;
+    width: 50%;
+    border: 5px dashed rebeccapurple;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    border: 1px dotted red;
+}
+.box1{
+    background-color: blueviolet;
+    position: static;
+}
+.box2{
+    background-color: olivedrab;
+    
+}
+.box3{
+    background-color: brown;
+    position: absolute;
+    left: 20px;
+}
+.box4{
+    background-color: peru;
+    position: fixed;
+}
+.box5{
+    background-color: chartreuse;
+    position: sticky;
+    
+}

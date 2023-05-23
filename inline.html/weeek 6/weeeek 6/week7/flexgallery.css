@@ -1,0 +1,13 @@
+img{
+    width:300px;
+    height:auto;
+}
+.container{
+    border: 1px solid black;
+    width:80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin:50px auto;
+    justify-content:center;
+    gap: 10px;
+}
