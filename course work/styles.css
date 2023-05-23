@@ -79,10 +79,13 @@ span{
 
 
 #about {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  background: khaki;
+    padding: 0 15px;
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 10px;
+    width:100%
+    
+
   }
   
   #about h2 {
@@ -126,7 +129,7 @@ span{
 
   #portfoilo {
     padding: 0 15px;
-    background-color: rosybrown;
+    background-color: r;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 10px;
     width:100%;
